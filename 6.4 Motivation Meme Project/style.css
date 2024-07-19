@@ -1,0 +1,23 @@
+html {
+  background-color: burlywood;
+}
+
+#img{
+    width:100%;
+    border: 10px solid rgb(53, 8, 8);
+}
+
+#mydiv {
+  width: 50%;
+  height: 200px;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 50px;
+  color:rgb(3, 3, 3);
+}
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
